@@ -176,9 +176,6 @@ for i in range(k-1):
     # we will iterate through this entire list and update the occupancy grid to be free, 
     # except for the last cell, which will be occupied
 
-    
-
-
 
 
 
